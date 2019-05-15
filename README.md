@@ -3,7 +3,7 @@
 - Gerardo Antonio Lopez Ruiz
 
 This repo is my code for the Kaggle competition "House Prices: Advanced Regression Techniques".
-It is also my final project for the course: Applied Machine learning for finance modelling, Columbia University, spring 2019.
+It is also my final project for the course: Applied Machine Learning for Finance Modelling, Columbia University, Spring 2019.
 
 
 ### Overview
